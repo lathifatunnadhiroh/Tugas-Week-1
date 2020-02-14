@@ -1,2 +1,2 @@
-# Tugas-Week-1
-tugas minggu pertama
+# TugasKelompok3
+Berisikan tagihan tugas tiap minggu
